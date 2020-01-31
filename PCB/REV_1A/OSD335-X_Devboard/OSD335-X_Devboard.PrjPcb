@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XQZTKQSB
 
 [Document7]
-DocumentPath=P02_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UYNPKTAH
-
-[Document8]
 DocumentPath=P03_UART_Debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHHMQCRC
 
-[Document9]
+[Document8]
 DocumentPath=HDMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVGAIKDC
 
-[Document10]
+[Document9]
 DocumentPath=OSD335-X_Devboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBAUUPBI
 
-[Document11]
+[Document10]
 DocumentPath=Felix_PCB_lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTNOQPHB
 
-[Document12]
+[Document11]
 DocumentPath=Felix_Sch_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
