@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=2
+HierarchyMode=1
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -1091,7 +1091,7 @@ Type65=1
 Type66=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
